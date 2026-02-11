@@ -1,3 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lab2</string>
+
+<string name="app_name">Art Space</string>
+
+<string name="button_previous">Previous</string>
+<string name="button_next">Next</string>
+
+<string name="mona_title">Mona Lisa</string>
+<string name="mona_author">Leonardo da Vinci (1503)</string>
+
+<string name="starry_title">Starry Night</string>
+<string name="starry_author">Vincent van Gogh (1889)</string>
+
+<string name="supper_title">The Last Supper</string>
+<string name="supper_author">Leonardo da Vinci (1498)</string>
+
+<string name="image_description">Artwork image</string>
+
 </resources>
